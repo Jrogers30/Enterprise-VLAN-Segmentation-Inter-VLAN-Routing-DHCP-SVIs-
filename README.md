@@ -59,22 +59,23 @@ The following checks were used to confirm correct operation:
 - Inter-VLAN connectivity using ping
 
 Example verification commands:
-show vlan brief
+
+## show vlan brief
 
 
 <img width="587" height="219" alt="Screenshot 2025-12-19 125623" src="https://github.com/user-attachments/assets/55a73ded-0ac9-4c1e-98c5-346617491288" />
 
 
-show interfaces trunk
+## show interfaces trunk
 
 
 <img width="618" height="396" alt="Screenshot 2025-12-19 125547" src="https://github.com/user-attachments/assets/f5464099-ca55-4a09-a6a0-2be1c53aef1d" />
 
-show ip interface brief
+## show ip interface brief
 
 <img width="545" height="160" alt="Screenshot 2025-12-19 125526" src="https://github.com/user-attachments/assets/abbb6545-8270-4227-ab7c-7ead5e723223" />
 
-show ip route
+## show ip route
 
 <img width="596" height="210" alt="Screenshot 2025-12-19 125506" src="https://github.com/user-attachments/assets/2d9355e0-5300-4162-8857-d35179c22d22" />
 
