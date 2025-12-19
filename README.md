@@ -62,8 +62,8 @@ Example verification commands:
 
 ## show vlan brief
 
+<img width="596" height="210" alt="Screenshot 2025-12-19 125506" src="https://github.com/user-attachments/assets/2d9355e0-5300-4162-8857-d35179c22d22" />
 
-<img width="587" height="219" alt="Screenshot 2025-12-19 125623" src="https://github.com/user-attachments/assets/55a73ded-0ac9-4c1e-98c5-346617491288" />
 
 
 ## show interfaces trunk
@@ -77,8 +77,8 @@ Example verification commands:
 
 ## show ip route
 
-<img width="596" height="210" alt="Screenshot 2025-12-19 125506" src="https://github.com/user-attachments/assets/2d9355e0-5300-4162-8857-d35179c22d22" />
 
+<img width="587" height="219" alt="Screenshot 2025-12-19 125623" src="https://github.com/user-attachments/assets/55a73ded-0ac9-4c1e-98c5-346617491288" />
 
 ---
 
