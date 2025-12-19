@@ -15,6 +15,10 @@ The network represents a small office environment where different departments re
 ## Topology Design
 The network uses a simple two-tier layout:
 
+<img width="460" height="426" alt="Screenshot 2025-12-19 123408" src="https://github.com/user-attachments/assets/331081ff-201b-4108-9be1-e837de1121a9" />
+
+
+
 - End devices connect to an access switch
 - The access switch connects to a multilayer switch using an 802.1Q trunk
 - All routing and DHCP services are handled by the multilayer switch
